@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jhinnen1
+- 👋 Hi, I’m Jerimiah.
 - 👀 I’m interested in full-stack development.
-- 🌱 I’m currently studying the AWS Developer certification path.
-- 💞️ I’m looking to collaborate on AWS projects.
+- 🌱 I’m currently studying the Salesforce Developer certification path.
 - 📫 How to reach me ... connect and message me on LinkedIn.
 
 <!---

@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jerimiah.
-- 👀 I’m interested in full-stack development.
-- 🌱 I’m currently studying the Salesforce Developer certification path.
+- 👀 I’m a Salesforce Developer.
 - 📫 How to reach me ... connect and message me on LinkedIn.
 
 <!---

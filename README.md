@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jerimiah.
-- 👀 I’m a Salesforce Developer.
 - 📫 How to reach me ... connect and message me on LinkedIn.
 
 <!---
